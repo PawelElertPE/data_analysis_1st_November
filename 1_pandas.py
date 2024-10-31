@@ -38,4 +38,3 @@ print(average_charges['no'])   # Average charges for non-smokers
 
 import matplotlib.pyplot as plt
 
-pip install matplotlib
